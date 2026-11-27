@@ -30,17 +30,19 @@ I have experience working with PHP, JavaScript, MySQL, Laravel, and modern front
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-Diploma in InfoComm Technology
-PSB Academy, Singapore
-In collaboration with Strategy First International College
-January 2025 – November 2026
+PSB Academy — Singapore
 
-Diploma in Computing
+Diploma in InfoComm Technology  
+January 2025
+
 Strategy First International College
 
----
+Diploma in Computing  
+November 2026
+
+-—
 
 ### 🚀 Featured Projects
 
