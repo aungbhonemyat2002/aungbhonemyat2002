@@ -32,9 +32,13 @@ I have experience working with PHP, JavaScript, MySQL, Laravel, and modern front
 
 ### 🎓 Education
 
-- Computing Graduate
-- Academic knowledge in Software Development, Database Management, Web Development, and Programming.
-- Completed multiple academic software development projects.
+Diploma in InfoComm Technology
+PSB Academy, Singapore
+In collaboration with Strategy First International College
+January 2025 – November 2026
+
+Diploma in Computing
+Strategy First International College
 
 ---
 
