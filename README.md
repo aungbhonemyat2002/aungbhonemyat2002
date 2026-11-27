@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Aung Phone Myat
 
-### 💻 Junior Web Developer | PHP Developer | Computing Graduate
+### 💻 Junior Web Developer | PHP Developer 
 
-I'm a passionate Junior Web Developer with an academic background in Computing. I enjoy developing web applications, solving technical problems, and learning new technologies.
+I'm a passionate Web Developer with an academic background in Computing. I enjoy developing web applications, solving technical problems, and learning new technologies.
 
 I have experience working with PHP, JavaScript, MySQL, Laravel, and modern frontend technologies through academic projects and practical development activities.
 
@@ -65,19 +65,11 @@ I have experience working with PHP, JavaScript, MySQL, Laravel, and modern front
 
 ---
 
-### 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/aungbhonemyat2002">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_USERNAME">
