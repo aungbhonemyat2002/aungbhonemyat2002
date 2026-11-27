@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I'm Aung Phone Myat
 
-<!--
-**aungbhonemyat2002/aungbhonemyat2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Junior Web Developer | PHP Developer | Computing Graduate
 
-Here are some ideas to get you started:
+I'm a passionate Junior Web Developer with an academic background in Computing. I enjoy developing web applications, solving technical problems, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience working with PHP, JavaScript, MySQL, Laravel, and modern frontend technologies through academic projects and practical development activities.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java" />
+</p>
+
+**Database & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+</p>
+
+---
+
+### 🎓 Education
+
+- Computing Graduate
+- Academic knowledge in Software Development, Database Management, Web Development, and Programming.
+- Completed multiple academic software development projects.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| A.M Coffee Shop | Coffee ordering and management system | PHP, MySQL, JavaScript |
+| FoodFusion | Food and recipe sharing website | PHP, MySQL, Bootstrap |
+| Java JSE Game | Java-based game development project | Java JSE |
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Winner – Java JSE Game Development Project.
+- 💡 Participated in academic activities and hackathons.
+- 🚀 Developed multiple academic software projects.
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced PHP & Laravel
+- React.js
+- RESTful API Development
+- Clean Code & Software Development Practices
+
+---
+
+### 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *Building projects, learning new technologies, and growing as a developer.*
